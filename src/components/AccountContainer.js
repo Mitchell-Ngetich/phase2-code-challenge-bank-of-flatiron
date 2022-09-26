@@ -7,12 +7,12 @@ function AccountContainer() {
   const [transaction, setTransaction] = useState([])
   const [query, setQuery] = useState("")
   useEffect(() => {
-    fetch("http://localhost:8001/transactions?q="+query)
+    fetch("http://localhost:8001/transactions?q=" + query)
       .then((resp) => resp.json())
       .then(transaction => setTransaction(transaction))
   }, [query])
   function handleSearch(e) {
-   setQuery(e.target.value)
+    setQuery(e.target.value)
   }
   return (
     <div>

@@ -1,4 +1,5 @@
 {
+  "homepages": "http://Mitch-1997.github.io/phase2-code-challenge-bank-of-flatiron",
   "name": "react-hooks-bank-of-flatiron-code-challenge",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +14,10 @@
   },
   "scripts": {
     "start": "PORT=8000 react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
     "server": "json-server --watch db.json -p 8001"
   },
   "eslintConfig": {
