@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.36b1c42b.chunk.css",
-    "main.js": "/static/js/main.829d9057.chunk.js",
-    "main.js.map": "/static/js/main.829d9057.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.532a128a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.532a128a.js.map",
-    "static/css/2.566584d8.chunk.css": "/static/css/2.566584d8.chunk.css",
-    "static/js/2.f0e017be.chunk.js": "/static/js/2.f0e017be.chunk.js",
-    "static/js/2.f0e017be.chunk.js.map": "/static/js/2.f0e017be.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.566584d8.chunk.css.map": "/static/css/2.566584d8.chunk.css.map",
-    "static/css/main.36b1c42b.chunk.css.map": "/static/css/main.36b1c42b.chunk.css.map",
-    "static/js/2.f0e017be.chunk.js.LICENSE.txt": "/static/js/2.f0e017be.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff"
+    "main.css": "/phase2-code-challenge-bank-of-flatiron/static/css/main.36b1c42b.chunk.css",
+    "main.js": "/phase2-code-challenge-bank-of-flatiron/static/js/main.9e7ccf75.chunk.js",
+    "main.js.map": "/phase2-code-challenge-bank-of-flatiron/static/js/main.9e7ccf75.chunk.js.map",
+    "runtime-main.js": "/phase2-code-challenge-bank-of-flatiron/static/js/runtime-main.7c881e45.js",
+    "runtime-main.js.map": "/phase2-code-challenge-bank-of-flatiron/static/js/runtime-main.7c881e45.js.map",
+    "static/css/2.bce64423.chunk.css": "/phase2-code-challenge-bank-of-flatiron/static/css/2.bce64423.chunk.css",
+    "static/js/2.f0e017be.chunk.js": "/phase2-code-challenge-bank-of-flatiron/static/js/2.f0e017be.chunk.js",
+    "static/js/2.f0e017be.chunk.js.map": "/phase2-code-challenge-bank-of-flatiron/static/js/2.f0e017be.chunk.js.map",
+    "index.html": "/phase2-code-challenge-bank-of-flatiron/index.html",
+    "static/css/2.bce64423.chunk.css.map": "/phase2-code-challenge-bank-of-flatiron/static/css/2.bce64423.chunk.css.map",
+    "static/css/main.36b1c42b.chunk.css.map": "/phase2-code-challenge-bank-of-flatiron/static/css/main.36b1c42b.chunk.css.map",
+    "static/js/2.f0e017be.chunk.js.LICENSE.txt": "/phase2-code-challenge-bank-of-flatiron/static/js/2.f0e017be.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/phase2-code-challenge-bank-of-flatiron/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.532a128a.js",
-    "static/css/2.566584d8.chunk.css",
+    "static/js/runtime-main.7c881e45.js",
+    "static/css/2.bce64423.chunk.css",
     "static/js/2.f0e017be.chunk.js",
     "static/css/main.36b1c42b.chunk.css",
-    "static/js/main.829d9057.chunk.js"
+    "static/js/main.9e7ccf75.chunk.js"
   ]
 }
